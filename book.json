@@ -1,5 +1,7 @@
 {
-   "gitbook": "3.x.x",
-    "structure.summary": "SUMMARY.rst",
+   "gitbook": "2.x.x",
+    "structure":{
+      "summary": "SUMMARY.rst"
+    },
     "plugins": ""
 }
