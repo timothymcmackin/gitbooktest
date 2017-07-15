@@ -1,20 +1,5 @@
 {
    "gitbook": "3.x.x",
     "structure.summary": "SUMMARY.rst",
-    "plugins": [ "theme-api" ],
-    "pluginsConfig": {
-        "theme-api": {
-            "languages": [
-                {
-                    "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
-                }
-            ]
-        }
-    }
+    "plugins": ""
 }
