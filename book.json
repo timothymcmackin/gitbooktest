@@ -1,4 +1,6 @@
 {
+   "gitbook": "3.x.x",
+    "structure.summary": "SUMMARY.rst",
     "plugins": [ "theme-api" ],
     "pluginsConfig": {
         "theme-api": {
