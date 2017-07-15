@@ -7,3 +7,4 @@
 ## Methods
 
 * [Defining Methods](methods.md)
+* [Widget resource](widgetResource.rst)
