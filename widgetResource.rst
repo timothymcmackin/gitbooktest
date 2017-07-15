@@ -2,7 +2,7 @@
 The widget resource
 ===================
 
-Widgets are great!
+Widgets are great! Really great!
 
 Some info about widgets
 -----------------------
